@@ -7,4 +7,4 @@ Includes:
 - Solar Still_SolidWorks
 - CNC Laser Enclosure_SolidWorks
 - Tire Handler Machine_SolidWorks
-- Customized TFEU Containers_AUTOCAD
+- TFEU Containers_AUTOCAD
