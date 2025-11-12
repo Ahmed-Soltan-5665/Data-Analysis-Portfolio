@@ -1,4 +1,4 @@
-# Dual-Portfolio: Data Analysis & Mechanical Engineering
+# Dual-Portfolio: Mechanical Engineering & Data Analysis
 
 A comprehensive portfolio showcasing my expertise in both Data Analysis and Mechanical Engineering, featuring interactive dashboards, data visualization projects, CAD designs, and technical engineering solutions.
 
