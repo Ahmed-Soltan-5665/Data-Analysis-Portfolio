@@ -8,4 +8,3 @@ Includes:
 - CNC Laser Enclosure_SolidWorks
 - Tire Handler Machine_SolidWorks
 - TFEU Containers_AUTOCAD
-
