@@ -1,5 +1,4 @@
-Mechanical Engineering Project Portfolios PDFs
-Includes:
+Mechanical Engineering Project Portfolio Includes:
 - Modular House_SolidWorks
 - In-ine Gear Reducer_SolidWorks
 - Camera Mount_SolidWorks
