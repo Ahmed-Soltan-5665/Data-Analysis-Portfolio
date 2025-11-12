@@ -10,3 +10,21 @@ Mechanical Engineering: https://github.com/Ahmed-Soltan-5665/My-Portfolio/tree/m
 Data Analysis: https://github.com/Ahmed-Soltan-5665/My-Portfolio/tree/main/Data-Analysis-Portfolio
 
 
+## 🛠️ Technical Skills
+
+### Mechanical Engineering
+- CAD Design (SolidWorks, AutoCAD)
+- Engineering Drawings
+- Finite Element Analysis (FEA)
+- Thermodynamics & Heat Transfer
+- Structural Analysis
+- Technical Documentation
+
+
+### Data Analysis
+- Data Visualization (Power BI, Tableau)
+- Statistical Analysis
+- SQL & Database Management
+- Python (Pandas, NumPy, Matplotlib)
+- Business Intelligence Reporting
+
